@@ -60,10 +60,14 @@ subtitle: Reference
 
 ## [Licensing](11-licensing.html)
 
+
 *   People who incorporate GPL'd software into their own software must
     make their software also open under the GPL license; most other
     open licenses do not require this.
 *   The Creative Commons family of licenses allow people to mix and
+*   People who incorporate GPL'd software into their own software must
+    make their software also open under the GPL license; most other
+    open licenses do not require this.
     match requirements and restrictions on attribution, creation of
     derivative works, further sharing, and commercialization.
 *   People who are not lawyers should not try to write licenses from
