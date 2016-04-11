@@ -12,6 +12,7 @@ minutes: 5
 We'll start by exploring how version control can be used to keep track of what one person did and when.
 Even if you aren't collaborating with other people,
 automated version control is much better than this situation:
+Change by Gerard, just for a test.
 
 [![Piled Higher and Deeper by Jorge Cham, http://www.phdcomics.com](fig/phd101212s.gif)](http://www.phdcomics.com)
 
