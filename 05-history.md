@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Version Control with Git
-subtitle: Exploring History
-minutes: 25
+title: GitHub
+subtitle: History
+minutes: 40
 ---
 > ## Learning Objectives {.objectives}
 >
