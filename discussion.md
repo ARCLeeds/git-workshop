@@ -386,6 +386,7 @@ Git has noticed that the file `krypton.txt` has disappeared from the
 file system and a new file `earth.txt` has showed up.
 
 Add those changes to the staging area:
+Add those changes to the staging area:
 
 ~~~{.bash}
 $ git add krypton.txt earth.txt
