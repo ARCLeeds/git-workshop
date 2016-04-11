@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Version Control with Git
-subtitle: Tracking Changes
-minutes: 20
+title: GitHub
+subtitle: Monitoring Changes
+minutes: 30
 ---
 > ## Learning Objectives {.objectives}
 > 
