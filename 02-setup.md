@@ -9,7 +9,7 @@ minutes: 5
 > *  Configure `git` the first time is used on a computer.
 > *  Understand the meaning of the `--global` configuration flag.
 
-
+More changes from Gerard.
 
 When we use Git on a new computer for the first time,
 we need to configure a few things. Below are a few examples
