@@ -8,6 +8,7 @@ minutes: 30
 >
 > *   Explain what remote repositories are and why they are useful.
 > *   Push to or pull from a remote repository.
+> *   Add another interesting bullet point
 
 Version control really comes into its own
 when we begin to collaborate with other people.
