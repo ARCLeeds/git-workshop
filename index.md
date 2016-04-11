@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Version Control with Git
+Layout: page
+Title: Version Control with Git
 ---
 
 Two researchers, Wolfman and Dracula have been hired by Universal Missions (a space
