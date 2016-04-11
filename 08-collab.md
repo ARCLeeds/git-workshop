@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Version Control with Git
-subtitle: Collaborating
+subtitle: Collaborating on GitHub
 minutes: 25
 ---
 > ## Learning Objectives {.objectives}
